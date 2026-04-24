@@ -61,15 +61,15 @@ Arquitetura completa com:
 
 <p align="center">
   <a href="https://www.credly.com/badges/0b57ea93-2f2e-4260-8ef0-6a14cfbb1a50/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/eca3b1e4-9f5c-4a6a-8d4f-0e2c6d3f8d65/aws-certified-solutions-architect-associate.png" width="130"/>
+    <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="120"/>
   </a>
-  
+
   <a href="https://www.credly.com/badges/1513a0db-b77c-464a-9370-50c6319a6a34/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/9358115e-ead7-47c4-b7b9-3b4d5b8c8f4b/aws-certified-cloud-practitioner.png" width="130"/>
+    <img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="120"/>
   </a>
 
   <a href="https://www.credly.com/badges/a5555db0-4127-4076-84c6-43d8a1d24d26/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/8c1b7d3b-5d5a-4f2a-9c2d-1d6e4f5a9b7c/aws-instructor.png" width="130"/>
+    <img src="https://images.credly.com/size/340x340/images/e426d40e-8a6a-4f72-866e-2abfcfbde46b/image.png" width="120"/>
   </a>
 </p>
 
