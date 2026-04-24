@@ -1,65 +1,87 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Olá%2C+eu+sou+Ricardo+Scopim!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Bitcount&size=35&pause=1000&width=700&lines=%F0%9F%91%8B+Olá%2C+eu+sou+Ricardo+Scopim!" />
 </h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="260" alt="Welcome GIF"/>
+  <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" height="240"/>
 </p>
 
 ---
 
-## 👨‍🏫 Sobre mim
+## ☁️ Cloud Architect | AWS Instructor | Builder
 
-Sou instrutor de Cloud Computing com foco em AWS, dedicado a transformar conhecimento técnico em aprendizado prático e acessível.
+Sou especialista em arquitetura de soluções na AWS, com foco em ambientes escaláveis, resilientes e orientados a boas práticas do **Well-Architected Framework**.
 
-Atuo na formação de novos profissionais de tecnologia, preparando alunos para certificações e para o mercado real, com uma abordagem baseada em projetos, cenários reais e boas práticas de arquitetura em nuvem.
-
-- 🎓 Instrutor na **Escola da Nuvem**
-- ☁ Especialista em **AWS | Cloud Computing | DevOps**
-- 🎯 Foco em formação prática e preparação para certificações (CLF-C02)
-- 📚 Ensino baseado em laboratório e resolução de problemas reais
+Atuo como instrutor formando novos profissionais de cloud, conectando teoria com prática real — desde a base (VPC) até arquiteturas completas com alta disponibilidade.
 
 ---
 
-## 🚀 O que você vai encontrar aqui
+## 🧠 Minha abordagem
 
-Este repositório é um reflexo da minha atuação como instrutor e profissional de cloud:
+Não ensino apenas serviços. Eu ensino **como pensar como arquiteto**:
 
-- 🔧 Laboratórios completos na AWS (VPC, EC2, ALB, Auto Scaling, S3)
-- 📦 Projetos com **Terraform (Infraestrutura como Código)**
-- 🧠 Conteúdos explicados com didática simplificada (estilo Feynman)
-- 🎯 Simulados e materiais focados em certificações AWS
-- ⚙️ Exemplos práticos de automação e arquitetura
+- 🔹 Design de arquiteturas escaláveis e altamente disponíveis  
+- 🔹 Infraestrutura como Código com Terraform  
+- 🔹 Boas práticas de segurança, custo e performance  
+- 🔹 Simulação de cenários reais de mercado  
+- 🔹 Preparação estratégica para certificações AWS  
 
 ---
 
-## 🏅 Certificações & Conquistas
+## 🏗️ Arquiteturas & Projetos
+
+Aqui você encontrará implementações reais que representam cenários de produção:
+
+### 🔹 Projeto: App Web Escalável na AWS
+
+Arquitetura completa com:
+
+- VPC Multi-AZ
+- Subnets públicas e privadas
+- EC2 como camada de aplicação
+- Application Load Balancer (ALB)
+- Auto Scaling Group
+- Armazenamento com S3
+- Backup e integração
+
+📌 Objetivo: simular ambiente real de produção com alta disponibilidade
+
+---
+
+### 🔹 Infraestrutura como Código (Terraform)
+
+- Criação modular (VPC, EC2, IAM, S3)
+- Padronização de naming e tags
+- State remoto com locking (S3 + DynamoDB)
+- Deploy e destroy controlado (custo otimizado)
+
+---
+
+## 🏅 Certificações & Autoridade
 
 <p align="center">
-  <img width="150" src="https://github.com/user-attachments/assets/3cdab9c5-4612-494d-bfa1-4f5d9ec37ba9" />
-  <img width="150" src="https://github.com/user-attachments/assets/042d2041-d19a-4404-bf4a-164b7a142e0a" />
-  <img width="150" src="https://github.com/user-attachments/assets/40068e04-8013-484f-b26e-0a7b10b5cc7d" />
-  <img width="150" src="https://github.com/user-attachments/assets/12ca5955-707c-4af0-9685-4b32e9fa6167" />
-  <img width="150" src="https://github.com/user-attachments/assets/3a9dbe7d-236a-4c57-b6d5-3ea1888d8599" />
-  <img width="150" src="https://github.com/user-attachments/assets/0c6cd333-79a8-4039-b74c-525f17dccc7f" />
+  <img width="150" src="LINK_DA_SUA_BADGE_AQUI" />
+</p>
+
+<p align="center">
+  <b>🎓 AWS Certified Solutions Architect – Associate</b><br>
+  <b>☁️ AWS Certified Cloud Practitioner</b><br>
+  <b>👨‍🏫 AWS Instructor</b>
 </p>
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack Tecnológica
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
 </p>
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rscopim&show_icons=true&theme=dark"/>
@@ -71,11 +93,8 @@ Este repositório é um reflexo da minha atuação como instrutor e profissional
 ## 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ricardosiminesscopim/" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardosiminesscopim/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/rscopim" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:ricardo.simines@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -85,5 +104,5 @@ Este repositório é um reflexo da minha atuação como instrutor e profissional
 ---
 
 <p align="center">
-  💡 "Tecnologia não é só sobre ferramentas, é sobre transformar vidas através do conhecimento."
+  💡 "Arquitetura não é sobre subir recursos, é sobre tomar decisões inteligentes."
 </p>
